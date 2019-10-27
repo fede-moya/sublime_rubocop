@@ -1,0 +1,4 @@
+[
+  { "keys": ["super+r", "super+a"], "command": "rubocop_auto_correct" },
+  { "keys": ["super+r", "super+c"], "command": "rubocop_check_single_file" }
+]
